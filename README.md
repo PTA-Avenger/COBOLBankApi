@@ -7,7 +7,7 @@
 
 This project is a hybrid system that demonstrates how to integrate **COBOL**, a legacy programming language, with a modern **Python Flask REST API** to simulate a banking system.
 
-> ⚙️ Built by [Thato Mabena] as part of a third-year CS portfolio project.
+> ⚙️ Built by [Thato Mabena] as part of a portfolio project.
 
 ---
 
@@ -137,7 +137,6 @@ COBOLBankAPI/
 ## 👨‍💻 Author
 
 **Thato Mabena**
-Final-Year Computer Science Student
 📫 [GitHub](https://github.com/PTA-Avenger)
 
 ---
